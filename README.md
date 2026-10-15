@@ -13,4 +13,4 @@
 
 ## Meeting:
 
-each thursday night at **9 PM**, first meeting to check schemas & plan for main task
+Each thursday night at **9 PM**, first meeting to check schemas & plan for main task
